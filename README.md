@@ -7,14 +7,14 @@ mui框架有效的解决了这些问题，这是一个可以方便开发出高�
 
 参考文档
 ------
-[mui官网](http://dcloudio.github.io/mui/)文档使用[Jekyll](http://jekyllrb.com) 构建，发布在GitHub Pages上，[立即查看](http://dcloudio.github.io/mui/)。
+[mui官网](http://dev.dcloud.net.cn/mui/)文档使用[Jekyll](http://jekyllrb.com) 构建，[立即查看](http://dev.dcloud.net.cn/mui/)。
 
 快速体验
 --------
 [在线下载](http://www.dcloud.io/hellomui)或扫描如下二维码下载Hello MUI，可在手机上体验MUI的控件UI及能力展示；
 
 <a href="http://www.dcloud.io/hellomui" target="_blank">
-<img src="http://dcloud.io/img/qrcode-m.png" width="85" />
+<img src="http://www.dcloud.io/images/code-m.png" width="100" />
 </a>
 
 
